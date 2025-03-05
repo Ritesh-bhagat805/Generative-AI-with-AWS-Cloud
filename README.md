@@ -1,1 +1,0 @@
-# Generative-AI-with-AWS-Cloud
